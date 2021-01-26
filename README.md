@@ -1,2 +1,2 @@
-# python-classes
+# python classes practice
 simple practice
